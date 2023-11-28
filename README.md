@@ -1,5 +1,6 @@
 <h2 align="center">Hello! I'm Ruben.</h2>
 
+* Currently learning: VueJS
 ###
 
 <div align="center">
