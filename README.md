@@ -1,6 +1,4 @@
-<h2 align="center">Hello! I'm Ruben.</h2>
-
-* Currently learning: VueJS
+<h2 align="center">Hello  I'm Ruben Rosalia.</h2>
 ###
 
 <div align="center">
